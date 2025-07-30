@@ -1,0 +1,3 @@
+creating one-more-file.txt file created in the feature-1 branch in remote repository
+
+Git Pull Manually Test - This file is created in  remote repository.
